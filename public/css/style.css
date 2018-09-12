@@ -1,0 +1,17 @@
+body {
+  background-color: skyblue;
+  text-align: center;
+  background-color: #073642;
+  color: #2aa198;
+  font-family: gillsans;
+}
+
+img {
+  max-width: 300px;
+  max-height: 200px;
+}
+
+h1, h2, h3 {
+  color: #6c71c4;
+  font-family: helvetica;
+}
